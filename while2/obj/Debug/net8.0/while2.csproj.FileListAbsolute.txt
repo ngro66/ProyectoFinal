@@ -1,0 +1,14 @@
+C:\Users\manue\source\repos\while2\while2\bin\Debug\net8.0\while2.exe
+C:\Users\manue\source\repos\while2\while2\bin\Debug\net8.0\while2.deps.json
+C:\Users\manue\source\repos\while2\while2\bin\Debug\net8.0\while2.runtimeconfig.json
+C:\Users\manue\source\repos\while2\while2\bin\Debug\net8.0\while2.dll
+C:\Users\manue\source\repos\while2\while2\bin\Debug\net8.0\while2.pdb
+C:\Users\manue\source\repos\while2\while2\obj\Debug\net8.0\while2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\source\repos\while2\while2\obj\Debug\net8.0\while2.AssemblyInfoInputs.cache
+C:\Users\manue\source\repos\while2\while2\obj\Debug\net8.0\while2.AssemblyInfo.cs
+C:\Users\manue\source\repos\while2\while2\obj\Debug\net8.0\while2.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\while2\while2\obj\Debug\net8.0\while2.dll
+C:\Users\manue\source\repos\while2\while2\obj\Debug\net8.0\refint\while2.dll
+C:\Users\manue\source\repos\while2\while2\obj\Debug\net8.0\while2.pdb
+C:\Users\manue\source\repos\while2\while2\obj\Debug\net8.0\while2.genruntimeconfig.cache
+C:\Users\manue\source\repos\while2\while2\obj\Debug\net8.0\ref\while2.dll
