@@ -1,0 +1,14 @@
+C:\Users\manue\source\repos\Arreglo1\Arreglo1\bin\Debug\net8.0\Arreglo1.exe
+C:\Users\manue\source\repos\Arreglo1\Arreglo1\bin\Debug\net8.0\Arreglo1.deps.json
+C:\Users\manue\source\repos\Arreglo1\Arreglo1\bin\Debug\net8.0\Arreglo1.runtimeconfig.json
+C:\Users\manue\source\repos\Arreglo1\Arreglo1\bin\Debug\net8.0\Arreglo1.dll
+C:\Users\manue\source\repos\Arreglo1\Arreglo1\bin\Debug\net8.0\Arreglo1.pdb
+C:\Users\manue\source\repos\Arreglo1\Arreglo1\obj\Debug\net8.0\Arreglo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\source\repos\Arreglo1\Arreglo1\obj\Debug\net8.0\Arreglo1.AssemblyInfoInputs.cache
+C:\Users\manue\source\repos\Arreglo1\Arreglo1\obj\Debug\net8.0\Arreglo1.AssemblyInfo.cs
+C:\Users\manue\source\repos\Arreglo1\Arreglo1\obj\Debug\net8.0\Arreglo1.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\Arreglo1\Arreglo1\obj\Debug\net8.0\Arreglo1.dll
+C:\Users\manue\source\repos\Arreglo1\Arreglo1\obj\Debug\net8.0\refint\Arreglo1.dll
+C:\Users\manue\source\repos\Arreglo1\Arreglo1\obj\Debug\net8.0\Arreglo1.pdb
+C:\Users\manue\source\repos\Arreglo1\Arreglo1\obj\Debug\net8.0\Arreglo1.genruntimeconfig.cache
+C:\Users\manue\source\repos\Arreglo1\Arreglo1\obj\Debug\net8.0\ref\Arreglo1.dll

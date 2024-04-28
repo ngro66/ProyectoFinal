@@ -1,0 +1,14 @@
+C:\Users\manue\source\repos\for52\for52\bin\Debug\net8.0\for52.exe
+C:\Users\manue\source\repos\for52\for52\bin\Debug\net8.0\for52.deps.json
+C:\Users\manue\source\repos\for52\for52\bin\Debug\net8.0\for52.runtimeconfig.json
+C:\Users\manue\source\repos\for52\for52\bin\Debug\net8.0\for52.dll
+C:\Users\manue\source\repos\for52\for52\bin\Debug\net8.0\for52.pdb
+C:\Users\manue\source\repos\for52\for52\obj\Debug\net8.0\for52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\source\repos\for52\for52\obj\Debug\net8.0\for52.AssemblyInfoInputs.cache
+C:\Users\manue\source\repos\for52\for52\obj\Debug\net8.0\for52.AssemblyInfo.cs
+C:\Users\manue\source\repos\for52\for52\obj\Debug\net8.0\for52.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\for52\for52\obj\Debug\net8.0\for52.dll
+C:\Users\manue\source\repos\for52\for52\obj\Debug\net8.0\refint\for52.dll
+C:\Users\manue\source\repos\for52\for52\obj\Debug\net8.0\for52.pdb
+C:\Users\manue\source\repos\for52\for52\obj\Debug\net8.0\for52.genruntimeconfig.cache
+C:\Users\manue\source\repos\for52\for52\obj\Debug\net8.0\ref\for52.dll
