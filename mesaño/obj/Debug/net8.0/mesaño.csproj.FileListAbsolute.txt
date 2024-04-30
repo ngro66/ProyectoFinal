@@ -1,0 +1,14 @@
+C:\Users\manue\source\repos\mesaño\mesaño\bin\Debug\net8.0\mesaño.exe
+C:\Users\manue\source\repos\mesaño\mesaño\bin\Debug\net8.0\mesaño.deps.json
+C:\Users\manue\source\repos\mesaño\mesaño\bin\Debug\net8.0\mesaño.runtimeconfig.json
+C:\Users\manue\source\repos\mesaño\mesaño\bin\Debug\net8.0\mesaño.dll
+C:\Users\manue\source\repos\mesaño\mesaño\bin\Debug\net8.0\mesaño.pdb
+C:\Users\manue\source\repos\mesaño\mesaño\obj\Debug\net8.0\mesaño.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\source\repos\mesaño\mesaño\obj\Debug\net8.0\mesaño.AssemblyInfoInputs.cache
+C:\Users\manue\source\repos\mesaño\mesaño\obj\Debug\net8.0\mesaño.AssemblyInfo.cs
+C:\Users\manue\source\repos\mesaño\mesaño\obj\Debug\net8.0\mesaño.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\mesaño\mesaño\obj\Debug\net8.0\mesaño.dll
+C:\Users\manue\source\repos\mesaño\mesaño\obj\Debug\net8.0\refint\mesaño.dll
+C:\Users\manue\source\repos\mesaño\mesaño\obj\Debug\net8.0\mesaño.pdb
+C:\Users\manue\source\repos\mesaño\mesaño\obj\Debug\net8.0\mesaño.genruntimeconfig.cache
+C:\Users\manue\source\repos\mesaño\mesaño\obj\Debug\net8.0\ref\mesaño.dll

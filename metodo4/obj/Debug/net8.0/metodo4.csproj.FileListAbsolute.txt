@@ -1,0 +1,14 @@
+C:\Users\manue\source\repos\metodo4\metodo4\bin\Debug\net8.0\metodo4.exe
+C:\Users\manue\source\repos\metodo4\metodo4\bin\Debug\net8.0\metodo4.deps.json
+C:\Users\manue\source\repos\metodo4\metodo4\bin\Debug\net8.0\metodo4.runtimeconfig.json
+C:\Users\manue\source\repos\metodo4\metodo4\bin\Debug\net8.0\metodo4.dll
+C:\Users\manue\source\repos\metodo4\metodo4\bin\Debug\net8.0\metodo4.pdb
+C:\Users\manue\source\repos\metodo4\metodo4\obj\Debug\net8.0\metodo4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\source\repos\metodo4\metodo4\obj\Debug\net8.0\metodo4.AssemblyInfoInputs.cache
+C:\Users\manue\source\repos\metodo4\metodo4\obj\Debug\net8.0\metodo4.AssemblyInfo.cs
+C:\Users\manue\source\repos\metodo4\metodo4\obj\Debug\net8.0\metodo4.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\metodo4\metodo4\obj\Debug\net8.0\metodo4.dll
+C:\Users\manue\source\repos\metodo4\metodo4\obj\Debug\net8.0\refint\metodo4.dll
+C:\Users\manue\source\repos\metodo4\metodo4\obj\Debug\net8.0\metodo4.pdb
+C:\Users\manue\source\repos\metodo4\metodo4\obj\Debug\net8.0\metodo4.genruntimeconfig.cache
+C:\Users\manue\source\repos\metodo4\metodo4\obj\Debug\net8.0\ref\metodo4.dll
