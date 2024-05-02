@@ -1,0 +1,39 @@
+Arreglo1.
+
+
+Programa para pedir numero que quede guardado en un arreglo y posteriormente buscarlo e indicar si se repiten y en que posicion.
+
+Switch2.
+
+Programa de sentencia switch para solicitar un numero del 1 al 7, que represente un dia de la semana y mostrarlo en la consola.
+
+Examen.
+
+Programa que solicita 3 valores numericos y que determina cual de los 3 valores es el mayor de los tres, mostrar la suma de los 3 valores y su promedio, ademas de preguntar si se requiere hacer otra vez el programa e indicar cuantas veces se hizo.
+
+For52.
+
+Programa que permita capturar de 10 valores enteros por teclado. Se desea conocer:
+a) Cuantos valores son negativos.
+b) Cuantos son pares.
+c) Cuantos son múltiplos de 15.
+d) Suma de los números que son impares
+Una vez que muestre los resultados, que pregunte si desea repetir el proceso, si la respuesta es si realizar de nuevo la solicitud de los 10 valores, si la respuesta es no mostrar la cantidad de veces que se realizó el proceso y la suma total de los valores ingresados en todas las repeticiones y su promedio.
+Utilizando el ciclo for y el ciclo do-while.
+
+Mesaño.
+
+Programa de sentencia switch para solicitar un numero del 1 al 12, que represente un mes del año y mostrarlo en la consola.
+
+Metodo4.
+
+Programa que solicite un número, y utiliza un método que recibe como
+parámetro el número y regrese como resultado el factorial, considerando que el factorial
+del 0 es 1, una vez mostrado el resultado pregunta si desea repetir el proceso, si la
+respuesta es afirmativa, pregunta otro número de lo contrario, termina el
+programa. Antes de terminar el programa muestra cuantas veces se realizó el
+proceso.
+
+While2.
+
+Programa de estructura while que ingresa un numero y mustra la tabla de multiplicar del mismo numero.
